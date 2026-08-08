@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Samruddhi%20Sawale&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Developer%20%7C%20AI%20%26%20Web%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Samruddhi%20Sawale&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=IT%20Student%20%7C%20Aspiring%20Software%20Developer%20%7C%20AI%20%26%20Web%20Enthusiast&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+love+building+with+AI+%26+the+web+%F0%9F%9A%80;Exploring+tech+%2B+biology+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+love+building+with+AI+%26+the+web+%F0%9F%9A%80;Exploring+tech+%2B+biology+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/samruddhi-sawale-117216396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:samruddhisawale41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://samruddhisawale1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samruddhi-sawale-117216396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:samruddhisawale41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://samruddhisawale1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
 
 </div>
 
@@ -23,18 +23,18 @@
 
 ```yaml
 name: Samruddhi Sandip Sawale
-role: Student & Aspiring Software Developer
+role: Student &amp; Aspiring Software Developer
 location: Pune, India (ICEM)
-currently_working_on: Academic projects, AI-based solutions, web development & hackathon projects
+currently_working_on: Academic projects, AI-based solutions, web development &amp; hackathon projects
 currently_learning: Python, DSA, Web Development, Git/GitHub, SQL, Artificial Intelligence
 ask_me_about: Python, Programming Basics, DSA, IT Projects, Hackathons
 fun_fact: I love exploring where technology meets biology 🧬💻
 ```
 
 - 🔭 Currently working on **academic projects and exploring AI-based solutions, web development, and hackathon projects**
-- 🌱 Currently learning **Python, DSA, Web Development, Git/GitHub, SQL & Artificial Intelligence**
+- 🌱 Currently learning **Python, DSA, Web Development, Git/GitHub, SQL &amp; Artificial Intelligence**
 - 👯 Looking to collaborate on **AI/ML projects, web applications, IoT projects, and hackathons**
-- 💬 Ask me about **Python, programming basics, DSA, IT projects, hackathons & learning resources for aspiring developers**
+- 💬 Ask me about **Python, programming basics, DSA, IT projects, hackathons &amp; learning resources for aspiring developers**
 - 📫 How to reach me: **samruddhisawale41@gmail.com**
 - ⚡ Fun fact: **I enjoy exploring the connection between technology and biology, and turning creative ideas into projects** 😊
 
@@ -46,15 +46,15 @@ fun_fact: I love exploring where technology meets biology 🧬💻
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"/>
 
 **Areas of Interest**
 
@@ -72,16 +72,16 @@ fun_fact: I love exploring where technology meets biology 🧬💻
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samruddhi1234-sawale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhi1234-sawale&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samruddhi1234-sawale&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhi1234-sawale&amp;layout=compact&amp;theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhi1234-sawale&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhi1234-sawale&amp;theme=radical" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samruddhi1234-sawale&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samruddhi1234-sawale&amp;theme=react-dark" width="100%"/>
 
 </div>
 
@@ -93,23 +93,23 @@ fun_fact: I love exploring where technology meets biology 🧬💻
 
 <!-- Replace REPO-NAME below with your actual repository names -->
 <a href="https://github.com/Samruddhi1234-sawale/REPO-NAME-1">
-  <img src="https://img.shields.io/badge/Project--One-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project--One-View_Repo-2575fc?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-1?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-1?style=for-the-badge&amp;color=6a11cb"/>
 
 <br/><br/>
 
 <a href="https://github.com/Samruddhi1234-sawale/REPO-NAME-2">
-  <img src="https://img.shields.io/badge/Project--Two-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project--Two-View_Repo-2575fc?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-2?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-2?style=for-the-badge&amp;color=6a11cb"/>
 
 <br/><br/>
 
 <a href="https://github.com/Samruddhi1234-sawale/REPO-NAME-3">
-  <img src="https://img.shields.io/badge/Project--Three-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project--Three-View_Repo-2575fc?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-3?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/Samruddhi1234-sawale/REPO-NAME-3?style=for-the-badge&amp;color=6a11cb"/>
 
 </div>
 
@@ -126,7 +126,7 @@ fun_fact: I love exploring where technology meets biology 🧬💻
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samruddhi1234-sawale&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samruddhi1234-sawale&amp;bg_color=0d1117&amp;color=2575fc&amp;line=6a11cb&amp;point=ffffff&amp;theme=react-dark" width="100%"/>
 </div>
 
 <br/>
@@ -135,40 +135,20 @@ fun_fact: I love exploring where technology meets biology 🧬💻
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samruddhi-sawale-117216396"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samruddhisawale41@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://samruddhisawale1.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samruddhi-sawale-117216396"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white"/></a>
+<a href="mailto:samruddhisawale41@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"/></a>
+<a href="https://samruddhisawale1.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer" width="100%"/>
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Samruddhi1234-sawale&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Samruddhi1234-sawale&amp;color=blueviolet&amp;style=flat-square&amp;label=Profile+Views)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
